@@ -139,23 +139,23 @@ Measures the proportion of customers leaving, making it easier to track retentio
 
 # 📊 Business Value & Impact Potential
 
- 1. Reduce Early-Tenure Churn
+ 1. Reduce Early-Tenure Churn:
 
 Targeted retention campaigns for customers under 12 months could reduce churn by 10-14%.
 
- 2. Contract Optimization Strategy
+ 2. Contract Optimization Strategy:
 
 Encouraging long-term contracts could reduce churn within month-to-month segments by 10–15%.
 
- 3. Service-Based Retention Improvements
+ 3. Service-Based Retention Improvements:
 
 Improving fiber-related service issues could lower churn in that segment by 6–9%.
 
- 4. Geographic Targeting Efficiency
+ 4. Geographic Targeting Efficiency:
 
 Focused retention campaigns in top 5 high-churn states could increase marketing ROI by 12–18%.
 
- 5. Revenue Protection
+ 5. Revenue Protection:
 
 Even a 3–5% reduction in churn can Increase Customer Lifetime Value,Reduce acquisition replacement cost,Stabilize recurring revenue streams
 
