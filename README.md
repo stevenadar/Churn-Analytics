@@ -1,4 +1,4 @@
-# 📉 Customer Churn Analytics — End-to-End SQL + Python + Power BI Projec
+# 📉 Customer Churn Analytics — End-to-End SQL + Python + Power BI Project
 
 ## 📘 Project Overview
 
