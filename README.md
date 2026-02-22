@@ -126,8 +126,7 @@ Measures the proportion of customers leaving, making it easier to track retentio
 
 *Additional Services vs % of Total Churn
 
-###
-
+##
 🧠 Key Analytical Findings:
 
 1)Month-to-month contracts exhibit the highest churn rates.
@@ -161,12 +160,8 @@ Focused retention campaigns in top 5 high-churn states could increase marketing 
 
  5. Revenue Protection
 
-Even a 3–5% reduction in churn can:
+Even a 3–5% reduction in churn can Increase Customer Lifetime Value,Reduce acquisition replacement cost,Stabilize recurring revenue streams
 
-a)Increase Customer Lifetime Value (CLV)
 
-b)Reduce acquisition replacement cost
-
-c)Stabilize recurring revenue streams
 
           
