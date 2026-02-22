@@ -84,8 +84,6 @@ EDA included:
 
 ###
 🔹4️) Business Intelligence (Power BI)
-
-Developed an interactive dashboard including:
 📌 KPI Overview:
 
 *Total Customers –
