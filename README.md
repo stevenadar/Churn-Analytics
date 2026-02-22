@@ -84,6 +84,8 @@ EDA included:
 
 ###
 🔹4️) Business Intelligence (Power BI)
+
+
 *Total Customers –
 Helps measure overall customer base size and business scale at a glance.
 
