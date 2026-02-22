@@ -91,22 +91,21 @@ EDA included:
 *Service-level churn trends
 
 *Early churn behavior detection
-
+---
 ###
 
 🔹4️) Business Intelligence (Power BI)
 
 Developed an interactive dashboard including:
+📌 KPI Overview:
 
-📌 KPI Overview
+*Total Customers – Helps measure overall customer base size and business scale at a glance.
 
-*Total Customers-
+*New Joiners – Indicates acquisition performance and how effectively the company is attracting new customers.
 
-*New Joiners-
+*Total Churn – Shows the total number of customers lost, highlighting retention challenges.
 
-*Total Churn-
-
-*Churn Rate %-
+*Churn Rate % – Measures the proportion of customers leaving, making it easier to track retention health over time
 
 👥 Demographic Insights
 
@@ -122,10 +121,6 @@ Developed an interactive dashboard including:
 
 *Tenure Group Segmentation
 
-🌍 Geographic Analysis
-
-*Top 5 High-Churn States
-
 📊 Churn Distribution
 
 *Churn Category Breakdown
@@ -137,7 +132,7 @@ Developed an interactive dashboard including:
 *Internet Type vs Churn Rate
 
 *Additional Services vs % of Total Churn
-
+---
 ###
 
 🧠 Key Analytical Findings:
@@ -151,11 +146,10 @@ Developed an interactive dashboard including:
 4)Certain payment methods correlate with higher attrition.
 
 5)Geographic clusters reveal regional churn risk concentrations.
-
+---
 ##
 📊 Business Value & Impact Potential
 
-If deployed in a real telecom environment, this project can:
 
 🎯 1. Reduce Early-Tenure Churn
 
@@ -177,9 +171,10 @@ Focused retention campaigns in top 5 high-churn states could increase marketing 
 
 Even a 3–5% reduction in churn can:
 
-Increase Customer Lifetime Value (CLV)
+a)Increase Customer Lifetime Value (CLV)
 
-Reduce acquisition replacement cost
+b)Reduce acquisition replacement cost
 
-Stabilize recurring revenue streams
+c)Stabilize recurring revenue streams
+---
           
