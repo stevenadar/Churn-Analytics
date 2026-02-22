@@ -1,145 +1,165 @@
-📉 Customer Churn Analytics — End-to-End SQL + Python + Power BI Project
-📘 Project Overview
+# 📉 Customer Churn Analytics — End-to-End SQL + Python + Power BI Projec
+
+## 📘 Project Overview
 
 Customer Churn Analytics is a complete end-to-end data analytics solution designed to identify, analyze, and reduce customer attrition in a telecom business model.
 
-This project demonstrates the full analytics lifecycle — from raw CSV ingestion into SQL Server, to data transformation using SQL & Python (EDA), and finally interactive business intelligence reporting using Power BI with DAX measures.
+This project demonstrates the full analytics lifecycle  from raw CSV ingestion into SQL Server, to data transformation using SQL & Python (EDA), and finally interactive business intelligence reporting using Power BI with DAX measures.
 
+---
 The objective is to:
 
-Identify churn drivers
+1)Identify churn drivers
 
-Segment high-risk customers
+2)Segment high-risk customers
 
-Analyze behavioral patterns
+3)Analyze behavioral patterns
 
-Support proactive retention strategies
+4)Support proactive retention strategies
 
-Lay foundation for predictive churn modeling
+---
 
-🧩 Project Architecture
-Component	Technology	Description
-Raw Dataset	CSV / Excel	Customer-level telecom dataset
-Data Storage	SQL Server	Structured relational database
-Data Cleaning & Validation	SQL + Python	Null handling, segmentation, validation
-Exploratory Data Analysis	Python (Pandas, NumPy, Seaborn)	Pattern detection & churn behavior analysis
-Data Modeling	SQL Server	Aggregated churn metrics & grouped analysis
-Visualization Layer	Power BI	Interactive dashboard & KPI tracking
-Advanced Calculations	DAX	Dynamic churn rate %, segment metrics
-🔄 End-to-End Workflow
-🔹 1️⃣ Data Ingestion (CSV → SQL Server)
+## 🧩 Project Architecture
 
-Imported raw telecom data
+| Component                                 | Type             | Description                                                                                 |
+| ----------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------- |
+| **Raw Dataset**                           | Excel            | Customer-level telecom dataset                                                              |
+| **Data Storage**                          | SQL Server       | Structured relational database                                                              |
+| **Data Cleaning & Validation**            | SQL + Python     | Null handling, segmentation, validation.                                                    |
+| **Exploratory Data Analysis(EDA)**        | Python Libraries | Pattern detection & churn behavior analysis.                                                |
+| **Data Modeling**                         | SQL Server       | Aggregated churn metrics & grouped analysis.                                                |
+| **Visualization Layer**                   | Power BI         | Interactive dashboard & KPI tracking.                                                       |
+| **Advanced Calculations**                 | DAX              | Dynamic churn rate %, segment metrics.                                                      |
 
-Structured relational tables
+## End-to-End Workflow
 
-Standardized schema
+###
+🔹1) Data Ingestion (Excel → SQL Server): 
+Performed:
+*Churn rate calculations
 
-Cleaned inconsistent entries
+*Tenure grouping
 
-🔹 2️⃣ Data Transformation (SQL)
+*Contract segmentation
+
+*Payment method aggregation
+
+*State-wise churn analysis
+
+*Service usage breakdown
+
+*SQL prepared analytics-ready datasets for visualization.
+
+###
+🔹2️) Data Transformation (SQL)
 
 Performed:
+*Churn rate calculations
 
-Churn rate calculations
+*Tenure grouping
 
-Tenure grouping
+*Contract segmentation
 
-Contract segmentation
+*Payment method aggregation
 
-Payment method aggregation
+*State-wise churn analysis
 
-State-wise churn analysis
+*Service usage breakdown
 
-Service usage breakdown
+*SQL prepared analytics-ready datasets for visualization.
 
-SQL prepared analytics-ready datasets for visualization.
-
-🔹 3️⃣ Exploratory Data Analysis (Python)
+###
+🔹3️) Exploratory Data Analysis (Python)
 
 Used:
 
-Pandas for cleaning & grouping
+*Pandas for cleaning & grouping
 
-NumPy for numerical analysis
+*NumPy for numerical analysis
 
-Seaborn & Matplotlib for pattern visualization
+*Seaborn & Matplotlib for pattern visualization
 
+####
 EDA included:
 
-Distribution analysis
+*Distribution analysis
 
-Tenure vs churn correlation
+*Tenure vs churn correlation
 
-Contract impact assessment
+*Contract impact assessment
 
-Service-level churn trends
+*Service-level churn trends
 
-Early churn behavior detection
+*Early churn behavior detection
 
-🔹 4️⃣ Business Intelligence (Power BI)
+###
+
+🔹4️) Business Intelligence (Power BI)
 
 Developed an interactive dashboard including:
 
 📌 KPI Overview
 
-Total Customers
+*Total Customers-
 
-New Joiners
+*New Joiners-
 
-Total Churn
+*Total Churn-
 
-Churn Rate %
+*Churn Rate %-
 
 👥 Demographic Insights
 
-Gender vs Churn Rate
+*Gender vs Churn Rate
 
-Age Group vs Churn Rate
+*Age Group vs Churn Rate
 
 💳 Account Information
 
-Payment Method Churn Analysis
+*Payment Method Churn Analysis
 
-Contract Type Impact
+*Contract Type Impact
 
-Tenure Group Segmentation
+*Tenure Group Segmentation
 
 🌍 Geographic Analysis
 
-Top 5 High-Churn States
+*Top 5 High-Churn States
 
 📊 Churn Distribution
 
-Churn Category Breakdown
+*Churn Category Breakdown
 
-Tooltip-based churn reason drilldown
+*Tooltip-based churn reason drilldown
 
 📡 Service Usage Analysis
 
-Internet Type vs Churn Rate
+*Internet Type vs Churn Rate
 
-Additional Services vs % of Total Churn
+*Additional Services vs % of Total Churn
 
-🧠 Key Analytical Findings
+###
 
-Month-to-month contracts exhibit the highest churn rates.
+🧠 Key Analytical Findings:
 
-Customers with tenure below 12 months are most vulnerable.
+1)Month-to-month contracts exhibit the highest churn rates.
 
-Fiber optic users show higher churn behavior.
+2)Customers with tenure below 12 months are most vulnerable.
 
-Certain payment methods correlate with higher attrition.
+3)Fiber optic users show higher churn behavior.
 
-Geographic clusters reveal regional churn risk concentrations.
+4)Certain payment methods correlate with higher attrition.
 
+5)Geographic clusters reveal regional churn risk concentrations.
+
+##
 📊 Business Value & Impact Potential
 
 If deployed in a real telecom environment, this project can:
 
 🎯 1. Reduce Early-Tenure Churn
 
-Targeted retention campaigns for customers under 12 months could reduce churn by 5–8%.
+Targeted retention campaigns for customers under 12 months could reduce churn by 10-14%.
 
 🎯 2. Contract Optimization Strategy
 
@@ -162,3 +182,4 @@ Increase Customer Lifetime Value (CLV)
 Reduce acquisition replacement cost
 
 Stabilize recurring revenue streams
+          
