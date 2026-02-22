@@ -135,8 +135,8 @@ Measures the proportion of customers leaving, making it easier to track retentio
 4)Certain payment methods correlate with higher attrition.
 
 5)Geographic clusters reveal regional churn risk concentrations.
-
-##
+---
+#
 📊 Business Value & Impact Potential
 
  1. Reduce Early-Tenure Churn
@@ -158,6 +158,7 @@ Focused retention campaigns in top 5 high-churn states could increase marketing 
  5. Revenue Protection
 
 Even a 3–5% reduction in churn can Increase Customer Lifetime Value,Reduce acquisition replacement cost,Stabilize recurring revenue streams
+---
 
 
 
