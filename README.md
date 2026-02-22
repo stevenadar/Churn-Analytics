@@ -124,7 +124,7 @@ Measures the proportion of customers leaving, making it easier to track retentio
 *Additional Services vs % of Total Churn
 
 
-#🧠 Key Analytical Findings:
+# 🧠 Key Analytical Findings:
 
 1)Month-to-month contracts exhibit the highest churn rates.
 
