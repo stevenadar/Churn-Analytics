@@ -70,16 +70,6 @@ Performed:
 
 ###
 🔹3️) Exploratory Data Analysis (Python)
-
-Used:
-
-*Pandas for cleaning & grouping
-
-*NumPy for numerical analysis
-
-*Seaborn & Matplotlib for pattern visualization
-
-###
 EDA included:
 
 *Distribution analysis
@@ -91,21 +81,24 @@ EDA included:
 *Service-level churn trends
 
 *Early churn behavior detection
----
-###
 
+###
 🔹4️) Business Intelligence (Power BI)
 
 Developed an interactive dashboard including:
 📌 KPI Overview:
 
-*Total Customers – Helps measure overall customer base size and business scale at a glance.
+*Total Customers –
+Helps measure overall customer base size and business scale at a glance.
 
-*New Joiners – Indicates acquisition performance and how effectively the company is attracting new customers.
+*New Joiners –
+Indicates acquisition performance and how effectively the company is attracting new customers.
 
-*Total Churn – Shows the total number of customers lost, highlighting retention challenges.
+*Total Churn –
+Shows the total number of customers lost, highlighting retention challenges.
 
-*Churn Rate % – Measures the proportion of customers leaving, making it easier to track retention health over time
+*Churn Rate % –
+Measures the proportion of customers leaving, making it easier to track retention health over time
 
 👥 Demographic Insights
 
@@ -132,7 +125,7 @@ Developed an interactive dashboard including:
 *Internet Type vs Churn Rate
 
 *Additional Services vs % of Total Churn
----
+
 ###
 
 🧠 Key Analytical Findings:
@@ -146,10 +139,9 @@ Developed an interactive dashboard including:
 4)Certain payment methods correlate with higher attrition.
 
 5)Geographic clusters reveal regional churn risk concentrations.
----
+
 ##
 📊 Business Value & Impact Potential
-
 
  1. Reduce Early-Tenure Churn
 
