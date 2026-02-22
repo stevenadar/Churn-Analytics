@@ -7,7 +7,7 @@ Customer Churn Analytics is a complete end-to-end data analytics solution design
 This project demonstrates the full analytics lifecycle  from raw CSV ingestion into SQL Server, to data transformation using SQL & Python (EDA), and finally interactive business intelligence reporting using Power BI with DAX measures.
 
 ---
-The objective is to:
+Objective :
 
 1)Identify churn drivers
 
